@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lance Vincent A. Salera</h1>
 <h3 align="center">A 3rd year BS Computer Science student at CIT-University</h3>
+<h3 align="center">Alliance Software Inc. Intern</h3>
 
 - 🔭 I’m currently working on [OJT Portal](https://github.com/lancevincentsalera/ojt-portal)
 
