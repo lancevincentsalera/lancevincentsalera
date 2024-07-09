@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **salera.lancevincent@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vk68ghBX7-o_GvYNVP9jo9yLNZ6j9dsg/view?usp=sharing](https://drive.google.com/file/d/1vk68ghBX7-o_GvYNVP9jo9yLNZ6j9dsg/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1vk68ghBX7-o_GvYNVP9jo9yLNZ6j9dsg/view?usp=sharing">Resume</a>
 
 - ⚡ Fun fact **I am colorblind (red/green deficient)**
 
