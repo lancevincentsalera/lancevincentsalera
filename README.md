@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lance Vincent A. Salera</h1>
+<h1 align="center">Hi 👋, I'm Lance</h1>
 <h3 align="center">Software Engineer at SAIB Inc.</h3>
 
 - 🔭 I’m currently working on enhancing my skills for Blockchain Development
 
-- 🌱 I’m currently learning **Cardano**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **salera.lancevincent@gmail.com**
 
